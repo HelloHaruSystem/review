@@ -1,0 +1,14 @@
+C:\Users\hac\code\c-sharp-basics\Grundlæggende-c-sharp\MainApp\MainApp\bin\Debug\net9.0\MainApp.exe
+C:\Users\hac\code\c-sharp-basics\Grundlæggende-c-sharp\MainApp\MainApp\bin\Debug\net9.0\MainApp.deps.json
+C:\Users\hac\code\c-sharp-basics\Grundlæggende-c-sharp\MainApp\MainApp\bin\Debug\net9.0\MainApp.runtimeconfig.json
+C:\Users\hac\code\c-sharp-basics\Grundlæggende-c-sharp\MainApp\MainApp\bin\Debug\net9.0\MainApp.dll
+C:\Users\hac\code\c-sharp-basics\Grundlæggende-c-sharp\MainApp\MainApp\bin\Debug\net9.0\MainApp.pdb
+C:\Users\hac\code\c-sharp-basics\Grundlæggende-c-sharp\MainApp\MainApp\obj\Debug\net9.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hac\code\c-sharp-basics\Grundlæggende-c-sharp\MainApp\MainApp\obj\Debug\net9.0\MainApp.AssemblyInfoInputs.cache
+C:\Users\hac\code\c-sharp-basics\Grundlæggende-c-sharp\MainApp\MainApp\obj\Debug\net9.0\MainApp.AssemblyInfo.cs
+C:\Users\hac\code\c-sharp-basics\Grundlæggende-c-sharp\MainApp\MainApp\obj\Debug\net9.0\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\hac\code\c-sharp-basics\Grundlæggende-c-sharp\MainApp\MainApp\obj\Debug\net9.0\MainApp.dll
+C:\Users\hac\code\c-sharp-basics\Grundlæggende-c-sharp\MainApp\MainApp\obj\Debug\net9.0\refint\MainApp.dll
+C:\Users\hac\code\c-sharp-basics\Grundlæggende-c-sharp\MainApp\MainApp\obj\Debug\net9.0\MainApp.pdb
+C:\Users\hac\code\c-sharp-basics\Grundlæggende-c-sharp\MainApp\MainApp\obj\Debug\net9.0\MainApp.genruntimeconfig.cache
+C:\Users\hac\code\c-sharp-basics\Grundlæggende-c-sharp\MainApp\MainApp\obj\Debug\net9.0\ref\MainApp.dll

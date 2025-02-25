@@ -1,0 +1,19 @@
+﻿1. Hvad betyder private?
+Private betyder at variabler, metoder eller klasser. kun kan bruges/tilgås inden for den klasse, de hører til.
+Det vil sige at andre klasser ikke vil kunne bruge de metoder klasser eller variabler.
+<----------------------------------------------------------------------------------------------------------------------->
+2. Hvad betyder protected?
+Protected betyder at variabler, metoder eller klasser kun kan bruges tilgås inden for den klasse de hører til eller
+dens sub klasser (Derived class)
+<----------------------------------------------------------------------------------------------------------------------->
+3. Hvad betyder public?
+Public betyder at at variabler, metoder eller klasser kan tilgås og bruges af andre klasser.
+<----------------------------------------------------------------------------------------------------------------------->
+4. Hvorfor har vi denne indkapsling?
+Indkapsling eller Encapsulation er en af de hovede koncepterne inden for oop (object oriented programming).
+Indkapsling bliver brugt til at begrænse adgangen nogle eller alle dele af et object. så for eksempel bruger ikke kan
+tilgå noget data eller ændre data. Det kan også øge integriteten af vores data når vi ikke giver adgang til det fra 
+hele programmet. En anden fordel er, at andre klasser og metoder ikke behøver at bekymre sig om hvordan en anden klasses 
+"internals" virker.
+Alt i alt kan indkapsling hjælpe med sikkerhed, Modularitet og reducere fejl.
+<----------------------------------------------------------------------------------------------------------------------->
